@@ -1,0 +1,101 @@
+﻿birth_year,sex,marital_status,yearly_household_income_percentile,number_of_toddlers,number_of_teens,highest_education,monthly_spend_on_wine,monthly_spend_on_vegetables,monthly_spend_on_toys,last_month_coupon_use,preferred_shopping_day,preferred_shopping_time,average_order_value,loyalty_program_member,number_of_orders_per_month,preferred_payment_method,customer_lifetime_value,most_purchased_category,last_purchase_date,discount_sensitivity,product_return_rate,customer_feedback_score,subscription_service_member,preferred_delivery_method
+1950,M,single,41,1,2,phd,93,41,132,low,Tuesday,morning,184.77,no,9,PayPal,7319.69,beauty,2024-02-02,low,0.1,4.92,yes,in-store pickup
+1952,M,single,13,0,0,phd,13,115,51,high,Thursday,afternoon,54.68,no,15,credit card,3722.8,clothing,2024-05-08,high,19.76,2.97,no,in-store pickup
+1952,M,single,59,2,2,bachelors,64,118,69,high,Friday,morning,107.81,no,3,cash,6790.66,home,2024-04-24,low,16.8,3.88,yes,in-store pickup
+1950,M,married,14,3,3,masters,69,96,87,none,Thursday,afternoon,58.08,yes,4,credit card,2396.64,electronics,2024-03-25,low,3.69,1.21,no,home delivery
+1981,F,single,23,1,1,bachelors,10,126,35,none,Tuesday,afternoon,130.07,no,5,cash,7003.47,home,2024-04-12,medium,10.4,2.81,yes,home delivery
+1994,M,married,22,2,1,associates,48,75,35,low,Saturday,afternoon,46.6,yes,7,cash,6567.72,electronics,2024-04-06,low,2.92,4.25,no,in-store pickup
+1953,M,single,51,0,3,phd,36,115,22,high,Monday,morning,162.14,no,14,credit card,5124.97,electronics,2024-02-29,high,14.39,3.12,no,in-store pickup
+1960,M,single,24,2,1,phd,64,93,106,low,Saturday,evening,94.96,yes,9,PayPal,9703.9,groceries,2024-04-30,high,18.49,2.25,yes,in-store pickup
+2002,F,married,86,1,3,phd,5,54,16,none,Tuesday,afternoon,33.28,no,3,credit card,1820.44,electronics,2024-05-19,high,2.17,2.58,yes,in-store pickup
+1994,F,married,44,0,0,high_school,14,113,51,high,Tuesday,afternoon,124.62,no,17,debit card,4305.8,groceries,2024-02-20,low,17.72,3.99,no,home delivery
+1951,F,single,53,1,0,associates,70,67,36,high,Thursday,morning,147.12,no,1,credit card,3947.83,groceries,2024-05-15,high,4.43,2.2,no,home delivery
+1989,M,single,61,0,0,masters,46,91,71,none,Friday,afternoon,181.46,yes,9,cash,9723.23,electronics,2024-05-27,high,3.79,1.19,no,in-store pickup
+1965,M,single,46,0,2,bachelors,99,37,9,low,Friday,morning,47.19,yes,4,cash,8906.28,groceries,2024-01-15,low,7.62,3.02,yes,home delivery
+1976,F,married,74,2,0,high_school,95,29,9,high,Friday,afternoon,129.74,yes,17,debit card,7050.88,groceries,2024-05-18,medium,17.13,1.44,yes,home delivery
+1974,F,single,94,1,2,masters,52,57,122,low,Wednesday,morning,63.28,yes,8,credit card,2368.92,electronics,2024-03-15,medium,3.76,3.98,yes,home delivery
+1979,F,single,5,1,3,high_school,95,24,45,low,Saturday,evening,160.43,yes,3,PayPal,1757.14,groceries,2024-06-29,low,5.79,4.97,yes,in-store pickup
+1951,F,divorced,4,3,3,bachelors,46,142,39,none,Friday,afternoon,114.83,yes,11,debit card,3032.17,beauty,2024-02-14,low,10.74,3.25,no,home delivery
+1978,M,single,50,1,0,masters,63,53,118,high,Wednesday,afternoon,189.89,yes,15,credit card,4314.92,clothing,2024-03-15,high,13.28,4.9,no,home delivery
+1951,F,single,29,1,0,bachelors,36,131,49,high,Sunday,morning,179,yes,8,cash,2319.81,electronics,2024-02-23,medium,10.12,1.61,no,home delivery
+1990,M,married,70,2,1,associates,8,142,42,none,Friday,afternoon,110.47,yes,7,debit card,9949.62,groceries,2024-06-10,medium,7.15,1.49,no,in-store pickup
+1985,F,married,69,1,2,high_school,6,128,57,low,Wednesday,afternoon,38.67,no,15,PayPal,5787.54,beauty,2024-04-07,medium,4.38,3.16,no,in-store pickup
+1991,F,married,27,3,0,masters,28,100,89,high,Sunday,evening,29.13,no,19,credit card,5963.77,home,2024-04-21,high,9.68,1.22,yes,home delivery
+2000,F,married,61,0,1,masters,44,43,18,high,Thursday,afternoon,153.64,yes,13,cash,6589.95,clothing,2024-01-09,high,16.61,3.18,yes,in-store pickup
+1962,M,married,28,2,0,associates,46,82,26,none,Thursday,evening,67.23,yes,15,credit card,4897.27,clothing,2024-04-19,high,16.55,1.24,no,in-store pickup
+1953,F,married,100,2,0,phd,86,103,65,none,Wednesday,evening,150.45,yes,5,cash,7464.98,electronics,2024-02-28,medium,2.34,4.87,no,in-store pickup
+2001,F,single,73,3,0,bachelors,13,133,88,none,Tuesday,morning,54.28,yes,6,cash,5506.89,electronics,2024-01-09,medium,6.23,2.04,yes,home delivery
+1974,M,divorced,3,1,0,high_school,98,122,11,none,Saturday,afternoon,62.05,no,6,debit card,8716.67,beauty,2024-02-24,low,16.72,3.86,yes,in-store pickup
+1951,M,divorced,86,3,2,masters,48,105,24,high,Sunday,evening,56.61,no,2,debit card,2338.66,home,2024-04-27,high,19.02,1.58,yes,in-store pickup
+1998,M,married,80,3,0,associates,52,105,115,high,Friday,morning,88.66,no,9,debit card,4739.85,clothing,2024-01-30,medium,10.69,3.38,yes,in-store pickup
+1975,M,divorced,61,1,1,masters,88,48,47,high,Sunday,evening,128.77,yes,2,PayPal,5141.97,electronics,2024-03-24,medium,5.25,4.94,no,home delivery
+1958,M,single,64,0,2,high_school,60,108,104,high,Saturday,afternoon,198.34,no,17,debit card,7662.85,beauty,2024-04-03,high,0.01,3.17,yes,home delivery
+1970,F,divorced,22,0,2,associates,15,53,69,high,Thursday,morning,54.2,yes,9,credit card,7610.52,clothing,2024-06-06,low,9.19,1.58,no,in-store pickup
+2000,F,single,63,3,1,masters,57,140,117,none,Monday,afternoon,181.53,yes,10,PayPal,1953.46,home,2024-01-27,high,16.71,2.93,yes,in-store pickup
+1965,M,divorced,67,2,2,masters,98,90,22,low,Friday,evening,168.18,no,8,cash,7759.97,home,2024-03-05,high,5.21,2.24,no,home delivery
+1960,M,divorced,60,1,3,associates,44,47,91,high,Tuesday,morning,135.7,yes,19,cash,7604.67,clothing,2024-04-22,low,3.29,4.41,no,home delivery
+1993,M,single,66,3,1,high_school,60,140,87,none,Monday,evening,89.5,no,15,PayPal,1344.7,beauty,2024-01-26,high,3.82,3.14,no,home delivery
+1998,F,single,14,3,3,bachelors,46,65,75,low,Sunday,morning,171.49,no,10,credit card,7770.22,groceries,2024-05-24,low,9.13,1.36,yes,home delivery
+1963,F,single,85,2,0,high_school,34,120,116,none,Sunday,afternoon,47.02,yes,14,credit card,3593.92,electronics,2024-02-03,high,19.36,1.97,no,in-store pickup
+1965,F,married,94,1,1,bachelors,22,26,63,high,Wednesday,morning,27.98,yes,11,credit card,7694.59,home,2024-01-13,medium,17.8,4.19,no,home delivery
+1952,M,divorced,94,1,1,associates,93,32,149,low,Saturday,afternoon,106.85,no,4,cash,5289.62,clothing,2024-02-27,high,1.29,3.41,yes,home delivery
+1966,M,divorced,30,2,3,masters,77,81,65,high,Thursday,morning,127.84,no,18,cash,8684.65,electronics,2024-05-15,medium,14.33,3.26,no,home delivery
+1961,M,married,13,2,2,phd,49,94,83,none,Friday,morning,142.95,yes,12,PayPal,4416.44,groceries,2024-01-08,medium,12.06,1.42,no,in-store pickup
+1996,M,married,67,2,2,high_school,71,92,108,low,Monday,evening,23.14,yes,13,debit card,7723.64,groceries,2024-06-09,low,13.88,4.73,no,in-store pickup
+1964,F,divorced,83,0,1,phd,51,38,142,high,Thursday,morning,183.03,no,4,cash,8526.31,home,2024-03-25,low,19.24,1.19,no,in-store pickup
+1959,M,divorced,40,2,1,masters,20,42,30,low,Friday,afternoon,185.7,yes,11,debit card,1963.45,groceries,2024-06-30,low,6.52,1.85,yes,home delivery
+1990,M,divorced,23,0,2,masters,38,35,120,low,Tuesday,afternoon,190.83,yes,7,debit card,4946.21,electronics,2024-04-27,medium,1.65,4.76,no,in-store pickup
+1962,F,single,19,0,3,bachelors,19,71,3,none,Sunday,evening,75.35,no,6,debit card,8406.57,clothing,2024-01-28,low,7.63,1.16,yes,home delivery
+1956,M,divorced,97,0,1,high_school,84,132,115,low,Thursday,morning,123.24,yes,16,debit card,4245.62,electronics,2024-05-23,medium,9.91,1.44,yes,home delivery
+1996,M,married,35,1,3,masters,86,148,14,high,Tuesday,morning,39.45,yes,10,PayPal,2405.8,groceries,2024-06-13,low,13.46,3.01,no,home delivery
+1970,F,divorced,59,0,0,associates,22,57,58,none,Friday,afternoon,145.14,no,13,PayPal,8192.91,home,2024-03-24,medium,12.51,1.5,no,home delivery
+1988,M,divorced,8,3,3,bachelors,46,72,40,none,Saturday,afternoon,182.09,yes,11,debit card,5173.36,electronics,2024-04-23,low,3.27,2.63,no,home delivery
+2002,M,single,23,3,1,associates,89,113,143,low,Tuesday,afternoon,93.71,no,15,PayPal,1916.65,electronics,2024-02-19,high,8.8,3.03,yes,in-store pickup
+1956,F,single,68,2,0,high_school,25,26,131,none,Saturday,afternoon,160.18,yes,19,cash,5753.84,groceries,2024-06-10,high,18.71,4.28,no,home delivery
+1996,F,single,43,3,2,high_school,28,22,110,low,Monday,morning,133.81,yes,18,credit card,4304.95,clothing,2024-03-24,medium,15.29,4.7,yes,in-store pickup
+1980,F,divorced,92,0,1,high_school,99,78,23,low,Thursday,afternoon,151.89,yes,5,PayPal,2481.75,beauty,2024-04-24,low,14.43,1.24,no,home delivery
+1992,M,divorced,68,3,0,phd,31,146,129,high,Wednesday,evening,182.89,no,12,PayPal,9047.81,home,2024-03-20,high,1.15,1.3,no,in-store pickup
+1979,F,married,63,0,2,associates,97,38,149,none,Wednesday,afternoon,67.95,yes,11,debit card,2318.24,clothing,2024-02-02,low,1.02,1.4,yes,in-store pickup
+1984,F,married,90,0,3,masters,11,101,20,low,Saturday,evening,76.39,yes,8,PayPal,1304.29,beauty,2024-05-24,low,11.66,4.03,yes,home delivery
+1999,M,divorced,60,1,0,high_school,19,121,25,low,Saturday,morning,104.3,yes,3,credit card,9507.11,electronics,2024-01-15,low,16.56,4.05,no,in-store pickup
+1968,M,single,35,2,0,bachelors,85,88,60,low,Thursday,evening,149.37,no,3,credit card,3411.58,beauty,2024-02-04,high,4.38,1.83,no,in-store pickup
+1990,F,single,63,2,3,bachelors,33,24,39,none,Friday,morning,138.95,yes,4,credit card,1335.46,home,2024-01-13,high,4.28,3.85,yes,home delivery
+1966,F,single,14,0,1,phd,28,146,87,none,Saturday,evening,27.22,yes,1,cash,7540.27,home,2024-02-26,medium,17.9,2.13,no,home delivery
+1969,F,divorced,71,2,3,associates,11,116,14,high,Friday,morning,39.06,yes,6,PayPal,1168.57,home,2024-01-11,low,19.58,3.42,yes,home delivery
+1964,M,divorced,91,0,0,masters,96,82,29,low,Monday,morning,64.95,yes,13,credit card,3832.27,beauty,2024-04-08,low,3.83,2.65,yes,home delivery
+1991,M,divorced,72,2,3,phd,92,106,37,low,Monday,afternoon,31.8,yes,11,credit card,4672.13,home,2024-01-19,low,13.64,2.95,yes,in-store pickup
+1967,M,divorced,22,3,0,associates,61,67,124,high,Sunday,evening,45.53,no,19,cash,8706.4,beauty,2024-03-10,low,17.94,4.72,no,home delivery
+1993,M,divorced,6,1,1,phd,43,38,12,none,Saturday,morning,91.94,no,15,credit card,9743.76,electronics,2024-05-28,low,1.03,2.82,yes,home delivery
+1969,M,single,23,3,1,bachelors,46,32,96,none,Friday,evening,90.69,yes,2,PayPal,3496.9,electronics,2024-05-12,medium,9.73,3.85,no,home delivery
+1967,F,divorced,63,1,0,phd,38,36,147,high,Tuesday,morning,147.94,yes,5,debit card,4318.55,beauty,2024-03-20,medium,17.11,1.44,no,home delivery
+1955,F,divorced,97,1,2,associates,74,109,99,high,Tuesday,evening,179.73,yes,3,debit card,7574.1,beauty,2024-04-22,high,0.75,3.65,no,home delivery
+1966,F,single,5,0,3,associates,88,75,124,low,Monday,afternoon,192.13,yes,2,credit card,7112.53,clothing,2024-01-05,high,4.8,4.73,yes,in-store pickup
+1968,F,single,83,3,3,phd,31,101,70,high,Thursday,afternoon,53.03,yes,19,debit card,5262.57,electronics,2024-04-01,low,3.88,3.57,yes,home delivery
+1990,F,divorced,80,3,0,high_school,37,29,7,low,Saturday,morning,23.01,yes,7,PayPal,9691.11,beauty,2024-04-07,medium,14.29,3.06,no,in-store pickup
+1989,F,divorced,15,1,2,masters,44,33,5,high,Wednesday,afternoon,79.79,no,8,PayPal,7679.98,electronics,2024-04-13,medium,2.46,1.36,yes,home delivery
+1968,M,single,62,2,0,associates,10,56,53,low,Saturday,evening,137.35,no,12,PayPal,3058.66,clothing,2024-04-19,medium,3.45,3.3,yes,in-store pickup
+1963,M,married,83,0,0,phd,49,141,84,high,Saturday,evening,192.04,no,3,PayPal,6245.03,clothing,2024-05-10,medium,19.51,1.84,yes,home delivery
+2000,M,divorced,77,3,0,phd,65,149,113,high,Wednesday,evening,148.5,no,9,PayPal,7078.06,groceries,2024-03-23,low,2.64,4.9,no,home delivery
+1981,M,married,54,3,3,phd,34,102,75,high,Sunday,morning,172.78,yes,8,PayPal,2448.36,groceries,2024-05-25,high,9.42,2.3,no,in-store pickup
+1998,M,single,47,3,0,phd,68,48,98,none,Tuesday,evening,126.85,yes,4,PayPal,2243.68,home,2024-03-23,high,19.27,4.06,no,home delivery
+1986,F,married,26,0,0,bachelors,41,52,140,none,Monday,afternoon,175.23,yes,13,credit card,9412.92,home,2024-06-25,high,15.2,3.39,yes,in-store pickup
+1987,M,divorced,85,2,3,bachelors,92,46,39,low,Wednesday,evening,160.62,no,12,cash,9567.49,groceries,2024-01-06,low,11.75,3.75,yes,in-store pickup
+1955,M,married,33,0,0,phd,27,87,62,none,Wednesday,morning,118.56,no,11,credit card,2309.65,beauty,2024-04-22,high,0.72,3.9,yes,in-store pickup
+1958,M,married,5,3,3,high_school,93,115,4,high,Friday,afternoon,186.35,yes,20,debit card,9341.65,groceries,2024-03-05,medium,11.23,4.57,no,in-store pickup
+2002,M,divorced,100,3,1,masters,28,145,72,low,Monday,evening,66.78,no,1,cash,6586.29,clothing,2024-05-10,medium,11.15,3.78,yes,home delivery
+1959,M,married,6,0,0,high_school,54,142,5,high,Monday,afternoon,65.36,no,4,cash,9013.53,electronics,2024-03-23,high,18.47,2.09,no,in-store pickup
+1990,F,divorced,53,2,1,masters,59,82,122,high,Saturday,evening,164.59,yes,4,credit card,8355.98,home,2024-03-31,medium,3.86,4.13,no,home delivery
+1977,F,divorced,34,2,2,phd,29,42,79,none,Friday,evening,58.13,no,6,debit card,7541.95,electronics,2024-02-08,medium,5.98,3.72,no,home delivery
+1962,M,single,17,1,3,masters,80,133,116,low,Wednesday,morning,107.1,yes,14,cash,2337.52,home,2024-04-11,high,9.11,4.51,no,in-store pickup
+1953,M,single,23,0,0,bachelors,22,68,140,low,Thursday,morning,54.87,yes,10,cash,4089.1,home,2024-05-25,medium,13.72,3.12,yes,home delivery
+1980,F,single,39,2,0,phd,16,78,44,high,Sunday,afternoon,80.03,yes,10,debit card,4091.96,groceries,2024-01-16,medium,0.64,1.02,yes,home delivery
+1982,M,married,85,1,2,masters,18,93,24,low,Friday,evening,62.45,yes,3,debit card,6846.48,home,2024-02-16,medium,17.72,1.79,no,in-store pickup
+1969,M,divorced,73,2,3,phd,27,100,61,high,Monday,evening,29.08,yes,16,debit card,5323.07,groceries,2024-02-27,low,8.8,1.44,yes,in-store pickup
+1967,F,divorced,34,2,1,masters,6,30,63,none,Monday,evening,89.73,yes,9,PayPal,6332.47,electronics,2024-06-16,low,15.16,3.5,no,home delivery
+1988,M,single,8,2,3,masters,8,41,82,none,Thursday,evening,150.9,no,14,cash,4987.26,electronics,2024-04-22,medium,19.89,4.5,no,in-store pickup
+1989,M,divorced,69,0,3,bachelors,85,118,135,none,Sunday,morning,148.69,no,19,debit card,6522.32,clothing,2024-01-06,medium,13.49,1.69,yes,in-store pickup
+1998,F,married,56,3,1,high_school,25,23,58,high,Saturday,evening,184.54,no,15,cash,1892.8,electronics,2024-02-19,low,9.99,3.78,yes,in-store pickup
+1979,M,married,29,0,0,bachelors,86,63,136,low,Monday,evening,78.4,yes,13,cash,9430.54,clothing,2024-04-20,medium,3.27,4.83,yes,home delivery
+1957,M,single,73,2,2,associates,58,129,67,high,Saturday,afternoon,59.97,no,12,cash,5789.88,home,2024-06-10,medium,18.91,1.18,no,home delivery
+1962,M,divorced,40,1,1,bachelors,80,126,55,none,Thursday,evening,192.03,no,14,PayPal,7262.9,home,2024-02-20,low,2.49,2.26,no,in-store pickup
+2002,M,married,42,1,0,bachelors,0,148,111,high,Tuesday,afternoon,160.35,no,12,debit card,5276.45,beauty,2024-05-17,high,11.34,1.87,yes,home delivery

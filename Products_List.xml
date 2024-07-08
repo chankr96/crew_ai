@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Kumar, Chanchal - Ext</LastAuthor>
+  <Created>2024-07-02T06:15:10Z</Created>
+  <LastSaved>2024-07-02T06:15:10Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6820</WindowHeight>
+  <WindowWidth>15200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Organic Fresh Produce</Data></Cell>
+    <Cell><Data ss:Type="String">Organic Apples</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Baby Diapers</Data></Cell>
+    <Cell><Data ss:Type="String">Pampers Diapers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Household Cleaning Supplies</Data></Cell>
+    <Cell><Data ss:Type="String">Clorox Disinfecting Wipes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Personal Care Items</Data></Cell>
+    <Cell><Data ss:Type="String">Dove Body Wash</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Health Supplements</Data></Cell>
+    <Cell><Data ss:Type="String">Vitamin D Tablets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Beverages</Data></Cell>
+    <Cell><Data ss:Type="String">Starbucks Cold Brew Coffee</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ready-to-Eat Meals</Data></Cell>
+    <Cell><Data ss:Type="String">Lean Cuisine Frozen Meals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Healthy Snacks</Data></Cell>
+    <Cell><Data ss:Type="String">KIND Bars</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pet Food and Supplies</Data></Cell>
+    <Cell><Data ss:Type="String">Purina Dog Chow</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Home Office Supplies</Data></Cell>
+    <Cell><Data ss:Type="String">HP Printer Ink</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Fitness Equipment</Data></Cell>
+    <Cell><Data ss:Type="String">Yoga Mat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Eco-Friendly Products</Data></Cell>
+    <Cell><Data ss:Type="String">Reusable Grocery Bags</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Seasonal Clothing</Data></Cell>
+    <Cell><Data ss:Type="String">Winter Jackets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Books and Magazines</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;The New York Times&quot; Bestseller Books</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Smart Home Devices</Data></Cell>
+    <Cell><Data ss:Type="String">Amazon Echo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cooking Ingredients</Data></Cell>
+    <Cell><Data ss:Type="String">Olive Oil</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Beauty Products</Data></Cell>
+    <Cell><Data ss:Type="String">L'Oreal Mascara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Health and Safety Products</Data></Cell>
+    <Cell><Data ss:Type="String">Face Masks</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gardening Supplies</Data></Cell>
+    <Cell><Data ss:Type="String">Miracle-Gro Plant Food</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Entertainment Products</Data></Cell>
+    <Cell><Data ss:Type="String">Nintendo Switch</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>1</ActiveCol>
+     <RangeSelection>C2</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
